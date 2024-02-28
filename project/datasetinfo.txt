@@ -1,0 +1,30 @@
+Data set updated
+Nov 13, 2023
+Dataset provided by
+data.world, Inc.
+Authors
+kai tanyu
+Time period covered
+2000 - 2018
+Description
+Scraped Movies Dataset
+I scraped the data for Hydra Movies entire collection of full movies - 3,940 movies in total. Much of the metadata is available via their API however they do not provide director, writer, cast & short summaries in their public datasets so I decided to scrape it. Each movie includes the following metadata:
+
+Movie title
+Year of Release
+Full Summary
+Short Summary
+Genres
+Films IMDB Unique Identifier
+Movie Runtime
+YouTube Trailer ID
+Rating
+Movie Poster (via URL path)
+Director
+Writer
+Cast
+Hopefully webmasters & movie enthusiasts will find this data useful
+
+
+
+https://datasetsearch.research.google.com/search?src=3&query=movie&docid=L2cvMTFocmhoaDg3Yw%3D%3D
